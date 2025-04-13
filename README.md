@@ -11,15 +11,14 @@
   
   Front-end :
   <br>
-  <img src="./icons/NextJS-Light.svg" height="30" alt="nextjs logo" title="Nextjs"/>
+  <img src="./icons/NextJS-Light.svg" height="30" alt="nextjs logo" title="NextJS"/>
   <img src="./icons/React-Dark.svg" height="30" alt="react logo" title="React"/>
-  <img src="./icons/TailwindCSS-Dark.svg" height="30" alt="tailwind css logo" title="Tailwind CSS"/>
+  <img src="./icons/TailwindCSS-Dark.svg" height="30" alt="tailwind css logo" title="Tailwind"/>
   <img src="./icons/Sass.svg" height="30" alt="Sass logo" title="SASS"/>
 
   Back-end :
   <br>
-  <img src="./icons/DotNet.svg" height="30" alt="dot-net logo" title=".NET"/>
-  <img src="./icons/ExpressJS-Dark.svg" height="30" alt="express logo" title="Express"/>
+  <img src="./icons/DotNet.svg" height="30" alt="asp dot net logo" title="ASP.NET"/>
   <img src="./icons/NodeJS-Dark.svg" height="30" alt="node js logo" title="NodeJS"/>
 
   Database :
