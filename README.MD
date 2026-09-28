@@ -1,5 +1,3 @@
-# YouGo
-
 > I build tools to make my life easier, but they regularly do the opposite.  
 > Some are open source, so you can find them here.
 
@@ -30,3 +28,7 @@ Private or open-source tools, utilities and experiments.
 [![Email](https://img.shields.io/badge/email-y0ug--o%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:y0ug-o@proton.me)
 
 [![Discord](https://img.shields.io/badge/Discord-yougo-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/126757056186286080)
+
+#
+
+![Profile views](https://komarev.com/ghpvc/?username=YouG-o&style=flat-square&label=profile+views)
