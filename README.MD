@@ -21,7 +21,7 @@ Privates or open-source tools, utilities and experiments.
 
 <p align="center">
   <a href="https://ko-fi.com/yougo">
-    <img src="images/ko-fi.jpg" alt="Support me on Ko-fi">
+    <img src="images/ko-fi.jpg" alt="Support me on Ko-fi" width="300">
   </a>
 </p>
 
